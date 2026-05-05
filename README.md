@@ -14,13 +14,27 @@
   <img src="https://img.shields.io/badge/LinkedIn-marco--baroncini-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mbaroncini&theme=flat&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with **12+ years of experience** across backend, frontend, infrastructure, and security. I build reliable, maintainable products end-to-end, with a strong focus on scalability, clean architecture, and measurable business impact. Comfortable leading teams, owning technical decisions, and improving delivery through automation and best practices.
+```ts
+const marco = {
+  stack:    ["PHP", "TypeScript", "Node.js", "Python"],
+  loves:    ["clean APIs", "event-driven systems", "RAG pipelines"],
+  avoids:   ["spaghetti code", "magic configs", "cowboy deploys"],
+  building: "distributed microservices + LLM integrations",
+  openTo:   true,
+}
+```
+
+12+ years turning requirements into working software — at every layer: API design, DB schema, infra config, CI pipelines, security hardening. Currently deep into **distributed architectures** and **AI/LLM integrations**.
 
 ---
 
@@ -37,6 +51,7 @@ Full Stack Developer with **12+ years of experience** across backend, frontend, 
 
 **Frontend**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -47,39 +62,58 @@ Full Stack Developer with **12+ years of experience** across backend, frontend, 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+**Search & Vector Stores**
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Solr](https://img.shields.io/badge/Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
 
 **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-PostGIS-336791?style=flat-square&logo=qgis&logoColor=white)
 
 **APIs & Messaging**
 
 ![REST API](https://img.shields.io/badge/REST%20API-0f172a?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Kong](https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white)
 
 **CMS**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?style=flat-square&logo=ghost&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
 
 **Security & AI**
 
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![ClamAV](https://img.shields.io/badge/ClamAV-CC0000?style=flat-square&logo=virustotal&logoColor=white)
 ![Gen AI / RAG](https://img.shields.io/badge/Gen%20AI%20%2F%20RAG-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## � What I Build
+## 🚀 What I Build
 
 <details>
 <summary><strong>Distributed Systems & Microservices</strong></summary>
@@ -144,15 +178,7 @@ Full Stack Developer with **12+ years of experience** across backend, frontend, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mbaroncini&theme=flat&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📬 Get In Touch
+##  Get In Touch
 
 Open to new opportunities — feel free to reach out.
 
