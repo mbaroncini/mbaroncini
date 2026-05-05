@@ -48,6 +48,7 @@ const marco = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
@@ -71,10 +72,13 @@ const marco = {
 **Search & Vector Stores**
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 ![Solr](https://img.shields.io/badge/Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
 ![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![GraphDB](https://img.shields.io/badge/GraphDB-1C6EA4?style=flat-square&logoColor=white)
+![RDF / SPARQL](https://img.shields.io/badge/RDF%20%2F%20SPARQL-5B6DBE?style=flat-square&logoColor=white)
 
 **DevOps & Infrastructure**
 
@@ -83,6 +87,7 @@ const marco = {
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -95,6 +100,7 @@ const marco = {
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Kong](https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **CMS**
 
@@ -110,6 +116,9 @@ const marco = {
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![ClamAV](https://img.shields.io/badge/ClamAV-CC0000?style=flat-square&logo=virustotal&logoColor=white)
 ![Gen AI / RAG](https://img.shields.io/badge/Gen%20AI%20%2F%20RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![Prism](https://img.shields.io/badge/Prism-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Stagehand](https://img.shields.io/badge/Stagehand-0F172A?style=flat-square&logoColor=white)
 
 ---
 
