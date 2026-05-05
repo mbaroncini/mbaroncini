@@ -79,75 +79,66 @@ Full Stack Developer with **12+ years of experience** across backend, frontend, 
 
 ---
 
-## 💼 Experience
+## � What I Build
 
 <details>
-<summary><strong>Senior Software Engineer — Enablia srl</strong> &nbsp;|&nbsp; May 2025 – Present</summary>
+<summary><strong>Distributed Systems & Microservices</strong></summary>
 <br>
 
-- Analysed and upgraded PHP & TypeScript microservices; designed modular **event-driven architectures** with NestJS and Symfony.
-- Built on platform pillars: **Kong** (API Gateway), **Kafka** (messaging), **Keycloak** (IAM) and **AWS** deployments.
-- Applied **DDD**-oriented domain modelling across distributed services; standardised local dev and CI with Docker.
+- Event-driven architectures with **NestJS**, **Symfony**, **Kafka**, **Kong** and **Keycloak** on **AWS**
+- Domain-Driven Design across distributed PHP & TypeScript services
+- Docker-standardised CI/CD pipelines for reproducible, environment-consistent deployments
 
 </details>
 
 <details>
-<summary><strong>Full Stack Developer & System Administrator — Cyclando.com</strong> &nbsp;|&nbsp; Sep 2023 – Oct 2024</summary>
+<summary><strong>Full Stack Web Applications</strong></summary>
 <br>
 
-- Built scalable apps with **Laravel** and **Next.js** → **80% reduction** in page load time.
-- Integrated **Generative AI** pipelines (OpenAI API) → **50% reduction** in manual data entry.
-- Managed CI/CD (GitHub Actions) and PostgreSQL optimisation → **95% uptime**, **40% DB performance gain**.
+- **50+ end-to-end applications** in PHP/Laravel, Next.js, Vue 3, React and Angular
+- **80% page load reduction** via Laravel + Next.js architecture overhaul
+- **40% DB performance gain** through PostgreSQL query optimisation and indexing strategies
+- **95% uptime** sustained via CI/CD automation (GitHub Actions) and server hardening
 
 </details>
 
 <details>
-<summary><strong>Tutor & Project Manager — Boolean Careers</strong> &nbsp;|&nbsp; Oct 2022 – Sep 2023</summary>
+<summary><strong>Geographic & Spatial Data</strong></summary>
 <br>
 
-- Tutored full-stack courses covering PHP, Laravel, JavaScript, Vue and MySQL.
-- Mentored **70+ students** through structured feedback, code review, and best-practice coaching.
-- Acted as Project Manager for final projects → **100% on-time delivery**.
+- Geographic REST APIs in **Laravel/PHP** serving mobile apps and third-party integrations
+- Custom **Composer packages** for map data processing and shared domain logic
+- Interactive **JS map plugins** with custom clustering, tile layers and map controls
 
 </details>
 
 <details>
-<summary><strong>Full Stack Developer — Webmapp srl</strong> &nbsp;|&nbsp; May 2017 – Sep 2023</summary>
+<summary><strong>AI & Automation</strong></summary>
 <br>
 
-- Developed and maintained **Geographic REST APIs** in Laravel/PHP for spatial data integration consumed by mobile apps and third-party clients.
-- Built and published multiple **custom Laravel packages** (Composer) for map data processing and shared business logic.
-- Designed interactive **JS/jQuery map plugins** with custom clustering and tile layers integrated into WordPress sites.
+- **RAG (Retrieval-Augmented Generation)** pipelines with OpenAI / Anthropic APIs and vector databases
+- Generative AI integrations for text/image processing → **50% reduction** in manual data entry
+- Agentic browser AI solutions for intelligent task automation and web interaction pipelines
 
 </details>
 
 <details>
-<summary><strong>Full Stack Developer — Net7 srl</strong> &nbsp;|&nbsp; Aug 2018 – Jan 2022</summary>
+<summary><strong>Infrastructure & Security</strong></summary>
 <br>
 
-- Built and customised **WordPress** and **Drupal** platforms, including custom themes, plugins, and content workflows.
-- Designed management systems with Laravel integrating PostgreSQL/PostGIS, Solr, and Elasticsearch.
-- Exposed data via REST API, JSON:API, and GraphQL endpoints.
+- Managed **30+ Debian/Linux servers**: Nginx/Apache, shell automation, vulnerability assessments
+- Security incident response: malware cleanup, PHP hardening, server-level patching
+- EQF Level 4 certified: **Information Security & Data Protection Manager**
 
 </details>
 
 <details>
-<summary><strong>Web Developer, SEO Specialist & Security Engineer — Catbird srl</strong> &nbsp;|&nbsp; Jan 2015 – Jan 2019</summary>
+<summary><strong>Data Pipelines & CMS Platforms</strong></summary>
 <br>
 
-- Designed and developed custom **WordPress** themes and plugins in PHP with ACF integrations and REST API extensions.
-- Performed **security incident response**: malware cleanup, PHP hardening, server-level patching and vulnerability prevention.
-- Delivered SEO optimisation (on-page, schema markup, performance tuning) and ongoing client management.
-
-</details>
-
-<details>
-<summary><strong>IT Consultant & Freelance Developer — Cyberway</strong> &nbsp;|&nbsp; Mar 2013 – Present</summary>
-<br>
-
-- Delivered **50+ web and software applications** end-to-end across a wide range of industries.
-- Managed **30+ Debian/Linux servers** with security audits, Nginx/Apache configuration, and shell scripting automation.
-- Provided hands-on development for **RAG (Retrieval-Augmented Generation)** applications, integrating LLM APIs (OpenAI, Anthropic) and vector databases.
+- **30+ CMS platforms** (WordPress, Drupal) with bespoke plugins, themes and REST API extensions
+- Data transformation pipelines across CSV, XML, JSON exposed via REST, JSON:API and GraphQL
+- PostGIS, Solr and Elasticsearch integrations for search and spatial querying
 
 </details>
 
@@ -156,7 +147,7 @@ Full Stack Developer with **12+ years of experience** across backend, frontend, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mbaroncini&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mbaroncini&theme=flat&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 ---
